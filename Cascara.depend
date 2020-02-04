@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1523635633 source:c:\users\usuario\desktop\tp_1_cascara\funciones.c
+	<stdlib.h>
+	"funciones.h"
+
+1523634213 c:\users\usuario\desktop\tp_1_cascara\funciones.h
+
+1523635930 source:c:\users\usuario\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523640646 source:c:\users\usuario\downloads\calculadora-master\calculadora-master\tp_1_cascara\funciones.c
+	<stdlib.h>
+	"funciones.h"
+
+1523640646 c:\users\usuario\downloads\calculadora-master\calculadora-master\tp_1_cascara\funciones.h
+
+1523640646 source:c:\users\usuario\downloads\calculadora-master\calculadora-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523640646 source:c:\users\usuario\downloads\calculadora-master\calculadora\funciones.c
+	<stdlib.h>
+	"funciones.h"
+
+1523640646 c:\users\usuario\downloads\calculadora-master\calculadora\funciones.h
+
+1573750935 source:c:\users\usuario\downloads\calculadora-master\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523640646 source:c:\users\usuario\downloads\programacion\calculadora-master\calculadora\funciones.c
+	<stdlib.h>
+	"funciones.h"
+
+1523640646 c:\users\usuario\downloads\programacion\calculadora-master\calculadora\funciones.h
+
+1573750935 source:c:\users\usuario\downloads\programacion\calculadora-master\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
